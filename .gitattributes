@@ -1,0 +1,2 @@
+Content/ParagonTwinBlast/*.umap filter=lfs diff=lfs merge=lfs -text
+Content/ParagonTwinBlast/*.uasset filter=lfs diff=lfs merge=lfs -text
